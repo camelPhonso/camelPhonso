@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋
 
 <!--
 **camelPhonso/camelPhonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my github profile! My name is Alphonso (exactly like the mango :mango:) and I am currently reskilling as a Frontend Web Developer.
+
+## Currently, I'm...
+:microscope: going through the Founders and Coders skills bootcamp for HTML, CSS and JavaScript. This profile holds a lot of study projects related to the skills bootcamp.
+
+## Background
+My previous experience includes 4 years as a HR professional and a few years prior to that as an operational manager across different kinds of businesses. These roles had a strong focus on the soft skills needed for cooperation and also a lot of real-world problem solving and a creative approach to building scalable working systems.
+
+As a HR professional I also did a lot of work focused on setting up and improving Information Systems, which triggered my curiosity over a change of career.

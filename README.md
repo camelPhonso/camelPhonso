@@ -1,4 +1,3 @@
-## Background
 <h1 align="center">Hi 👋, I'm Alphonso</h1>
 <h3 align="center">Front-end Web Developer</h3>
 

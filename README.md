@@ -7,9 +7,9 @@
 
 <h2 align="left">Background</h2>
 <p align="left">
-My previous experience includes 4 years as a HR professional and a few years prior to that as an operational manager across different kinds of businesses. These roles had a strong focus on the soft skills needed for cooperation and also a lot of real-world problem solving and a creative approach to building scalable working systems.
+My previous experience includes 4 years as a HR professional and some years prior to that as an operational manager across different kinds of businesses. These roles had a strong focus on the soft skills needed for cooperation and team-building as well as a lot of real-world problem solving and a creative approach to building scalable working systems.
 
-As a HR professional I also did a lot of work focused on setting up and improving Information Systems, which triggered my curiosity over a change of career.
+Working in a tech start-up environment I gained a strong appreciation for the agile working methods and the iterative approach to solution building that I saw engineering teams apply over and over. I began exploring web development on my own and quickly realised it was the next step for my career.
 </p>
 
 <h2 align="left">Connect with me:</h2>

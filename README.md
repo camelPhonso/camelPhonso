@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **through Founders and Coders skills bootcamp**
 
+- 📓 You can check my learning journey in this [portfolio](https://github.com/fac27/alphonso-portfolio/blob/main/README.md)
+
 - 👨‍💻 All of my projects are available [right here!](https://github.com/camelPhonso?tab=repositories)
 
 <h2 align="left">Background</h2>

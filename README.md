@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alphonso</h1>
+<h1 align="center">Hi, I'm Alphonso (exactly like the mango 🥭)</h1>
 <h2 align="center">Front-end Web Developer</h2>
 
 - 🌱 I’m currently learning **through Founders and Coders skills bootcamp**

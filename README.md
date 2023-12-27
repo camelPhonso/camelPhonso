@@ -1,16 +1,9 @@
-<h1 align="center">Hi, I'm Alphonso (exactly like the mango 🥭)</h1>
+<h1 align="center">Alphonso 🥭</h1>
 <h2 align="center">Software Developer</h2>
 
-- 🌱 I’m an alumni of, and current Course Facilitator for **Founders and Coders**
+- 🌱 Alumni of, and Course Facilitator for **Founders and Coders**
 
-- 👨‍💻 Feel free to visit previous projects [right here!](https://github.com/camelPhonso?tab=repositories)
-
-<h2 align="left">Background</h2>
-<p align="left">
-My experience prior to web development includes 4 years of HR work and many more in management roles.
-  
-I am currently a Course Facilitator for the talented bunch in FAC28 as well as a founding member of the Tech For Better Software Development Agency.
-</p>
+- 👨‍💻 Founding member of [**enBloc**](https://www.linkedin.com/company/enbloc-dev)
 
 <h2 align="left">Say hello here</h2>
 <p align="left">

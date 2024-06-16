@@ -1,7 +1,7 @@
 <h1 align="center">Alphonso 🥭</h1>
 <h2 align="center">Software Developer</h2>
 
-- 🌱 Alumni of, and Course Facilitator for [**Founders and Coders**](https://www.foundersandcoders.com/)
+- 🌱 Alumnus of, and Course Facilitator for [**Founders and Coders**](https://www.foundersandcoders.com/)
 
 - 🎷 Founding member of [**enBloc**](https://www.linkedin.com/company/enbloc-dev)
 

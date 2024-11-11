@@ -1,11 +1,11 @@
 <h1 align="center">Alphonso 🥭</h1>
 <h2 align="center">Software Developer</h2>
 
-- 🌱 Alumnus of, and Course Facilitator for [**Founders and Coders**](https://www.foundersandcoders.com/)
-
-- 🎷 Founding member of [**enBloc**](https://www.linkedin.com/company/enbloc-dev)
+- 🌱 Alumnus of, and occasional mentor and speaker for [**Founders and Coders**](https://www.foundersandcoders.com/)
 
 - 🐾 Open Source maintainer for [**Kindly**](https://github.com/enBloc-org/kindly)
+
+- 🎷 Pretty cool in general
 
 <h2 align="left">Say hello here</h2>
 <p align="left">
